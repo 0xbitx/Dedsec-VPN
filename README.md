@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.png"> </br>
+<img src="banner.png" width="100%"/>
 </p>	
 
 ### DEDSEC-VPN | Stay Anonymous
