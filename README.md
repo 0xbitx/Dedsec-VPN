@@ -25,9 +25,6 @@ DedSec VPN, a powerful tool designed to combat DNS blocks, network censorship, a
 * Kali Linux 
 * Parrot OS 
 
-### About Exploit
-      https://perditionsecurity.com/understanding-bluetooth-security-flaw-cve-2023-45866/
-      
 ## Support
 
 If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
