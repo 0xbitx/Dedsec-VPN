@@ -1,35 +1,39 @@
-<h1 align="center"> DEDSEC VPN </h1>
 
-<img src="banner.png" width="100%"/>
+<p align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/10878/10878955.png", width="250", height="250">
+</p>
 
+<h1 align="center"> DEDSEC-VPN</h1>
+<h4 align="center">DEDSEC-VPN is a linux based vpn tool.</h4>
 
-<h3 align="center"> DEDSEC-VPN | Stay Anonymous </h3>
-dedsec-vpn is a tool to bypass DNS blocks and also network censorship and surveillance. It is capable of routing all network traffic from the machine to the output node as well as encrypting this communication and the data passing through it. Even if you are on a school, company or public Wi-Fi network you can establish a connection to the VPN server.
+## DESCRIPTION
+DedSec VPN, a powerful tool designed to combat DNS blocks, network censorship, and surveillance, goes beyond traditional VPN capabilities. It seamlessly routes all network traffic from the user's machine to the designated output node while ensuring robust encryption of communication and data transmission. Whether navigating through school, corporate, or public Wi-Fi networks, DedSec VPN empowers users to establish secure connections to VPN servers, safeguarding their online privacy and freedom of access. Additionally, with the newly integrated feature to prevent IPv6 leaks, DedSec VPN further fortifies its defenses against potential vulnerabilities, offering enhanced protection and peace of mind to users navigating the digital landscape.
 
-### installation: 
-```
-git clone https://github.com/0xbitx/Dedsec-VPN.git
-```
-```
-cd Dedsec-VPN
-```
-```
-sudo pip install colorama
-```
+<h3 align="center"> TOOL BANNER </h3>
+<p align="center">
+<img src="https://github.com/0xbitx//blob/main/banner.png", width="900", height="900">
+</p>
 
-### usage:
-```
-sudo python3 dedsec-vpn.py
-```
+## INSTALLATION 
+    * git clone https://github.com/0xbitx/Dedsec-VPN.git
+    * cd Dedsec-VPN
+    * chmod +x dedsec_vpn setup
+    * ./setup
+    * sudo ./dedsec_vpn
+    
+### TESTED ON FOLLOWING
+* Kali Linux 
+* Parrot OS 
 
-### Tested os:
-```
-kali linux
-```
-```
-parrot os
-```
+### About Exploit
+      https://perditionsecurity.com/understanding-bluetooth-security-flaw-cve-2023-45866/
+      
+## Support
+
+If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
+
+**Bitcoin Address: `36ALguYpTgFF3RztL4h2uFb3cRMzQALAcm`**
+
 <h1 align="center"> DISCLAIMER </h1>
 
 <h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
-
