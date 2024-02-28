@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"> DEDSEC-VPN</h1>
-<h4 align="center">DEDSEC-VPN is a linux based vpn tool.</h4>
+<h4 align="center">DDEDSEC-VPN is a Linux-based VPN tool that hides your real IP and blocks IPv6 leaks.</h4>
 
 ## DESCRIPTION
 DedSec VPN, a powerful tool designed to combat DNS blocks, network censorship, and surveillance, goes beyond traditional VPN capabilities. It seamlessly routes all network traffic from the user's machine to the designated output node while ensuring robust encryption of communication and data transmission. Whether navigating through school, corporate, or public Wi-Fi networks, DedSec VPN empowers users to establish secure connections to VPN servers, safeguarding their online privacy and freedom of access. Additionally, with the newly integrated feature to prevent IPv6 leaks, DedSec VPN further fortifies its defenses against potential vulnerabilities, offering enhanced protection and peace of mind to users navigating the digital landscape.
