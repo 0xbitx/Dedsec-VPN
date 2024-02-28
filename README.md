@@ -11,14 +11,13 @@ DedSec VPN, a powerful tool designed to combat DNS blocks, network censorship, a
 
 <h3 align="center"> TOOL BANNER </h3>
 <p align="center">
-<img src="https://github.com/0xbitx//blob/main/banner.png", width="900", height="900">
+<img src="https://github.com/0xbitx/Dedsec-VPN/blob/main/banner.png", width="900", height="900">
 </p>
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/Dedsec-VPN.git
     * cd Dedsec-VPN
-    * chmod +x dedsec_vpn setup
-    * ./setup
+    * chmod +x dedsec_vpn
     * sudo ./dedsec_vpn
     
 ### TESTED ON FOLLOWING
