@@ -19,6 +19,11 @@ DedSec VPN, a powerful tool designed to combat DNS blocks, network censorship, a
     * cd Dedsec-VPN
     * chmod +x dedsec_vpn
     * sudo ./dedsec_vpn
+
+## CHECK YOUR CONNECTION
+    * test ipv6 leak: https://test-ipv6.com/
+    * whats my ip: https://browserleaks.com/ip
+   
     
 ### TESTED ON FOLLOWING
 * Kali Linux 
