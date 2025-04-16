@@ -17,15 +17,14 @@ DedSec VPN, a powerful tool designed to combat DNS blocks, network censorship, a
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/Dedsec-VPN.git
     * cd Dedsec-VPN
-    * chmod +x dedsec_vpn setup
-    * ./setup
+    * pip install tabulate --break
+    * chmod +x dedsec_vpn
     * sudo ./dedsec_vpn
 
 ## CHECK YOUR CONNECTION
     * test ipv6 leak: https://test-ipv6.com/
     * whats my ip: https://browserleaks.com/ip
    
-    
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
