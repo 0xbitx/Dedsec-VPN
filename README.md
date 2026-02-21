@@ -57,8 +57,7 @@ DedSec VPN is a powerful tool designed to combat DNS blocks, network censorship,
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/Dedsec-VPN.git
     * cd Dedsec-VPN
-    * pip install tabulate --break
-    * sudo apt install resolvconf
+    * sudo pip3 install tabulate --break
     * chmod +x dedsec_vpn
     * sudo ./dedsec_vpn
 
